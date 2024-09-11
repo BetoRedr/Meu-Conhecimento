@@ -1,0 +1,31 @@
+###Aqui serão abordados temas sobre programação que adiquiri em diversos cursos.
+
+
+**PYTHON**
+
+    Por que você deveria usar menos dicionários no Python?
+    
+    No meu começo em Python, eu só usava dicionários para guardar pares key/value. Porém, ao observar códigos de pessoas mais experientes, percebi que existem outros objetos que são melhores para determinadas situações. Vou mostrar alguns deles e as vantagens em relação ao dicionário:
+    
+        1. Dataclasses
+        
+        Se você está usando dicionários para criar objetos com várias chaves, dataclasses são uma opção mais organizada. Elas permitem definir um "modelo" com campos fixos, e você acessa os atributos diretamente, sem se preocupar com strings.
+        
+        Veja um exemplo na primeira foto.
+        
+        2. Pydantic
+        
+        Se você precisa validar dados (principalmente em APIs), o pydantic faz isso automaticamente. Ele valida e converte tipos, algo que o dicionário não faz sozinho.
+        
+        Veja um exemplo na segunda foto.
+    
+    3. Enum
+    
+    Quando você precisa trabalhar com um conjunto de valores fixos (como status ou categorias), enum ajuda a padronizar e evitar erros de digitação. Diferente dos dicionários, onde os valores podem ser qualquer coisa, aqui você garante consistência.
+    
+    Veja um exemplo na terceira foto.
+
+
+#**GitHub**
+    ##Básico
+    https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

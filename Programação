@@ -1,7 +1,7 @@
-###Aqui serão abordados temas sobre programação que adiquiri em diversos cursos.
+### Aqui serão abordados temas sobre programação que adiquiri em diversos cursos.
 
 
-**PYTHON**
+# **PYTHON**
 
     Por que você deveria usar menos dicionários no Python?
     
@@ -19,13 +19,13 @@
         
         Veja um exemplo na segunda foto.
     
-    3. Enum
-    
-    Quando você precisa trabalhar com um conjunto de valores fixos (como status ou categorias), enum ajuda a padronizar e evitar erros de digitação. Diferente dos dicionários, onde os valores podem ser qualquer coisa, aqui você garante consistência.
-    
-    Veja um exemplo na terceira foto.
+        3. Enum
+        
+        Quando você precisa trabalhar com um conjunto de valores fixos (como status ou categorias), enum ajuda a padronizar e evitar erros de digitação. Diferente dos dicionários, onde os valores podem ser qualquer coisa, aqui você garante consistência.
+        
+        Veja um exemplo na terceira foto.
 
 
-#**GitHub**
+# **GitHub**
     ##Básico
     https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
